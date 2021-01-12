@@ -7,7 +7,8 @@ public class CarSpawner : MonoBehaviour {
     [SerializeField] SessionData sessionData;
     [SerializeField] GameObject carPrefab;
     [SerializeField] GameObject busPrefab;
-    [SerializeField] Player player;
+    //[SerializeField] Player player;
+    [SerializeField] GameObject player;
     [SerializeField] List<SpawningPoint> spawningPoints;
 
 

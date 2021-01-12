@@ -1,7 +1,28 @@
 fileFormatVersion: 2
 guid: 6736a2341d2c545d4a1b1f81018f1f3d
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -6444230958003659541
+    second: TitleFiretruck_0
+  - first:
+      213: 7341103005486438702
+    second: TitleFiretruck_1
+  - first:
+      213: -233478151721636321
+    second: TitleFiretruck_2
+  - first:
+      213: 8945379050969805669
+    second: TitleFiretruck_3
+  - first:
+      213: -9017140339044458404
+    second: TitleFiretruck_4
+  - first:
+      213: -3250264341805060197
+    second: TitleFiretruck_5
+  - first:
+      213: 3352824136443614429
+    second: TitleFiretruck_6
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -106,9 +127,168 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: TitleFiretruck_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4
+        width: 103
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: becdd91361e7196a0800000000000000
+      internalID: -6444230958003659541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleFiretruck_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 13
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e295295e946d0e560800000000000000
+      internalID: 7341103005486438702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleFiretruck_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 16
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e21d7abd482ccf0800000000000000
+      internalID: -233478151721636321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleFiretruck_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 16
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563b64a2ade542c70800000000000000
+      internalID: 8945379050969805669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleFiretruck_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 17
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50e861f2aeacd280800000000000000
+      internalID: -9017140339044458404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleFiretruck_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 15
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f27904dcdb4e2d0800000000000000
+      internalID: -3250264341805060197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TitleFiretruck_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 12
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4d31fb9cf978e20800000000000000
+      internalID: 3352824136443614429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
